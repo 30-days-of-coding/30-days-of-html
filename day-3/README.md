@@ -10,8 +10,7 @@ Classes are used to group and style multiple HTML elements. You can define a cla
 
 ```html
 
-<p class="highlight">This is a highlighted paragraph
-.</p>
+<p class="highlight">Hello world!</p>
 <style>
 .highlight {
     background-color: yellow;
@@ -22,4 +21,20 @@ Classes are used to group and style multiple HTML elements. You can define a cla
 </style>
 
 ```
+## IDs
 
+While classes can be applied to multiple elements ids can only be applied to one element
+
+here is an example:
+
+```html
+
+<p id="highlight">hello world!</p>
+<style>
+.highlight {
+    background-color: yellow;
+    color: black;
+    font-weight: bold;
+}
+</style>
+```
