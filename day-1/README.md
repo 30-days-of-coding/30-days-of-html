@@ -10,7 +10,7 @@ HTML is a markup language used to create web pages. It allows us to define the s
 
 ## Creating Your First HTML Page
 
-Let's create your first HTML page. Here's a simple example:
+A simple html website:
 
 ```html
 <!DOCTYPE html>
