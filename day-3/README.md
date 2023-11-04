@@ -31,7 +31,7 @@ here is an example:
 
 <p id="highlight">hello world!</p>
 <style>
-.highlight {
+#highlight {
     background-color: yellow;
     color: black;
     font-weight: bold;
