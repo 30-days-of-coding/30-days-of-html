@@ -2,4 +2,4 @@
 a free html course
 
 
-Your discord: (discord)[https://discord.gg/z4gBPkQ8BN]
+our discord: [discord](https://discord.gg/z4gBPkQ8BN)
