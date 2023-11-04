@@ -27,6 +27,8 @@ Then copy and paste this code into the file
 </body>
 </html>
 ```
+you can now save the file and close the editor.
+now go back to where the file is and open it with your browser (right click, open with and choose your browser)
 
 
 
