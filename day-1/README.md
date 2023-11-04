@@ -8,6 +8,10 @@ Welcome to the first day of "30 Days of HTML!" On this day, we'll start with the
 
 HTML is a markup language used to create web pages. It allows us to define the structure and content of a webpage by using special tags and elements.
 
+## How to create and open your first webpage
+
+First create a file named index.html
+
 ## Creating Your First HTML Page
 
 A simple html website:
