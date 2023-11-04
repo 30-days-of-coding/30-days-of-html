@@ -11,11 +11,10 @@ HTML is a markup language used to create web pages. It allows us to define the s
 ## How to create and open your first webpage
 
 First create a file named index.html
+Then right click it and choose Open with
+and click on your text editor.
 
-## Creating Your First HTML Page
-
-A simple html website:
-
+Then copy and paste this code into the file
 ```html
 <!DOCTYPE html>
 <html>
@@ -28,3 +27,6 @@ A simple html website:
 </body>
 </html>
 ```
+
+
+
