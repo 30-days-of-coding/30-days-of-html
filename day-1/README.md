@@ -1,2 +1,26 @@
-# Day 1
+# 30 Days of HTML - Day 1: The Basics
 
+## Introduction
+
+Welcome to the first day of "30 Days of HTML!" On this day, we'll start with the fundamental concepts of HTML (Hypertext Markup Language) and create our first HTML page.
+
+## What is HTML?
+
+HTML is a markup language used to create web pages. It allows us to define the structure and content of a webpage by using special tags and elements.
+
+## Creating Your First HTML Page
+
+Let's create your first HTML page. Here's a simple example:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First HTML Page</title>
+</head>
+<body>
+    <h1>Welcome to "30 Days of HTML"</h1>
+    <p>This is a simple HTML page.</p>
+</body>
+</html>
+```
