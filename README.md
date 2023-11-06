@@ -11,11 +11,11 @@
 
 
 ## Contribute
-How to contribute
-Step 1. Fork the repo
-Step 2. Make some changes
-Step 3. Create a pull request
-Step 4. dm me on discord (@susguy446)
+How to contribute <br>
+Step 1. Fork the repo <br>
+Step 2. Make some changes <br>
+Step 3. Create a pull request <br>
+Step 4. dm me on discord (@susguy446) <br>
 
 ## Social Media
  Join our [discord](https://discord.gg/z4gBPkQ8BN)
