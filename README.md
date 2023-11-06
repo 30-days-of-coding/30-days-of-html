@@ -12,6 +12,7 @@
 | 04    | [Images](https://github.com/SusgUY446/30-days-of-html/blob/main/day-4/README.md)|
 | 05    | [Hyperlinks](https://github.com/SusgUY446/30-days-of-html/blob/main/day-5/README.md)|
 | 06    | [Tables and Lists](https://github.com/SusgUY446/30-days-of-html/blob/main/day-6/README.md)
+| 07    | [external files](https://github.com/SusgUY446/30-days-of-html/blob/main/day-7/README.md)
 
 
 ## Contribute
