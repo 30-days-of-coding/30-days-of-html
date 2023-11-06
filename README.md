@@ -10,7 +10,12 @@
 | 06    | [Tables and Lists](https://github.com/SusgUY446/30-days-of-html/blob/main/day-6/README.md)
 
 
+## Contribute
+How to contribute
+Step 1. Fork the repo
+Step 2. Make some changes
+Step 3. Create a pull request
+Step 4. dm me on discord (@susguy446)
 
 ## Social Media
-
  Join our [discord](https://discord.gg/z4gBPkQ8BN)
