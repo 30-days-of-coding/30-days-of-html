@@ -1,5 +1,9 @@
 # 30-days-of-html
 
+# About 30 Days of HTML
+
+## Topics
+
 | # Day |             Topics             |
 | ----- | :----------------------------: |
 | 01    | [The basics](https://github.com/SusgUY446/30-days-of-html/blob/main/day-1/README.md)|
