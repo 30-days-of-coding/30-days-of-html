@@ -1,6 +1,7 @@
 # 30-days-of-html
 
 # About 30 Days of HTML
+30 Days of HTML is a free html course that is designed to help you start with html. 
 
 ## Topics
 
